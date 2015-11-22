@@ -1,5 +1,5 @@
 {
-  "name": "arraydiff",
+  "name": "arraydiff-papandreou",
   "description": "Diff two arrays, finding inserts, removes, and moves",
   "homepage": "https://github.com/codeparty/arraydiff",
   "repository": {
